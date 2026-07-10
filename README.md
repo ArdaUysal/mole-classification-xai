@@ -9,7 +9,7 @@ Temel amaç, bilgisayarlı görme teknikleri kullanarak deri üzerindeki lezyonl
 
 ## 🚀 Proje Özeti ve Teknolojiler
 
-Projenin merkezinde yer alan `mole-no_mole.ipynb` dosyası, derin öğrenme modellerinin eğitilmesi, test edilmesi ve sonuçların görselleştirilmesi adımlarını barındırır. 
+Projenin merkezinde yer alan `baseline_v2.ipynb` dosyası, derin öğrenme modellerinin eğitilmesi, test edilmesi ve sonuçların görselleştirilmesi adımlarını barındırır. 
 
 * **Derin Öğrenme Mimarileri:** Sınıflandırma performansını optimize etmek amacıyla **MobileNetV2** modeli kullanılmıştır.
 * **Açıklanabilir Yapay Zeka (XAI):** Modelin aldığı kararların kara kutu (black-box) olmaktan çıkarılıp yorumlanabilmesi için **Grad-CAM** entegrasyonu yapılmıştır. Bu sayede modelin görüntünün hangi bölgelerine odaklanarak sınıflandırma yaptığı görselleştirilmiştir.
