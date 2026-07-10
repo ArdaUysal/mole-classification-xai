@@ -16,3 +16,5 @@ Projenin merkezinde yer alan `mole-no_mole.ipynb` dosyası, derin öğrenme mode
 
 ## 📊 Proje Durumu
 Bu proje, bir bitirme / araştırma çalışması olarak yürütülmüş olup; veri işleme, model kurulumu ve XAI (Grad-CAM) süreçlerinin teknik altyapı analizlerini tamamlamıştır. Geliştirilen süreçler ticari bir son üründen ziyade, derin öğrenme algoritmalarının tıbbi görüntüler üzerindeki araştırma ve teknik fizibilite çıktılarını temsil etmektedir.
+
+👉 **[Jupyter Notebook'u Tarayıcıda Görüntülemek İçin Tıklayın (nbviewer)](https://nbviewer.org/github/ArdaUysal/mole-classification-xai/blob/main/baseline_v2.ipynb)**
